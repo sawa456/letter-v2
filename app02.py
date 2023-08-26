@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # モデルの読み込み
-model = load_model("/Users/sawadashuichi/Desktop/Letter app/Letter app/model.h5")
+model = load_model("model.h5")
 
 st.title("あなたの字、本当に綺麗ですか？")
 

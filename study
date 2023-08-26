@@ -1,0 +1,14 @@
+sawadashuichi@SyunoAir Letter app % git init     
+Reinitialized existing Git repository in /Users/sawadashuichi/Desktop/Letter app/Letter app/.git/
+sawadashuichi@SyunoAir Letter app % git add .
+sawadashuichi@SyunoAir Letter app % git commit -m "fist commit"
+[master ef787ed] fist commit
+ Committer: 澤田修一 <sawadashuichi@SyunoAir.katch.ne.jp>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+↑ローカルからGithubにアップロードする方法
+git init →ファイル作成しています
+add . →前のgit addから今回のaddの変更対象を履歴として残していく
+git commitで変更履歴を保存 -m以降はどんな変更を行なったのかを残す（First commitでなくても良い）
